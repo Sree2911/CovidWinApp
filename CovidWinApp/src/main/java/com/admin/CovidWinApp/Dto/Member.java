@@ -15,6 +15,8 @@ public class Member {
     private boolean vaccinationStatus;
     private String contactNumber;
 
+    public Member(String ssnId, String existingMember, int i, String existingAddress, boolean b, String number) {
+    }
 
 
     public Long getId() {
